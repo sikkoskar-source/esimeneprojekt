@@ -1,0 +1,3 @@
+<h1>Tervist!<h1>
+<p>Siin on minu html dokument<p>
+<p>Mina olen selles tunnis õppinud palju uut ja huvitavat<p>
